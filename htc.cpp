@@ -1,4 +1,4 @@
-#include "phone2.h"
+#include "htc.h"
 #include "phonefactory.h"
 
 QString HTC::name()

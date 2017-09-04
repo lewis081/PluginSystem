@@ -1,4 +1,4 @@
-#include "phones.h"
+#include "apple.h"
 #include "phonefactory.h"
 
 QString Apple::name()

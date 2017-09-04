@@ -11,9 +11,9 @@ TEMPLATE = app
 
 SOURCES += main.cpp \
     iphone.cpp \
-    phone2.cpp \
     phonefactory.cpp \
-    phones.cpp
+    htc.cpp \
+    apple.cpp
 
 # The following define makes your compiler emit warnings if you use
 # any feature of Qt which as been marked deprecated (the exact warnings
@@ -28,6 +28,6 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 HEADERS += \
     iphone.h \
-    phone2.h \
     phonefactory.h \
-    phones.h
+    htc.h \
+    apple.h
