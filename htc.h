@@ -1,7 +1,6 @@
 #ifndef PHONE2_H
 #define PHONE2_H
 
-
 #include <QString>
 #include "iphone.h"
 

@@ -2,7 +2,7 @@
 #include <QDebug>
 
 #include "phonefactory.h"
-#include "phones.h"
+#include "apple.h"
 
 int main(int argc, char *argv[])
 {
